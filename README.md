@@ -9,7 +9,7 @@ A simple mod for Zen Browser that visually marks opened tabs with a clear indica
 
 ## Screenshots
 
-![Full Zen Browser with Mod](/thumbnail.jpg)
+![Full Zen Browser with Mod](/thumbnail.png)
 
 ## License
 
